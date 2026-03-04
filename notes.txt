@@ -1,1 +1,1 @@
-This line shows modification in the text file.
+ This update is made in the hotfix branch (C4).
