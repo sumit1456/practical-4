@@ -1,4 +1,6 @@
-# practical-4
-this is demo
+\# Demo Repository
 
-changing the read me file
+
+
+This repository demonstrates basic Git and GitHub workflow including clone, pull, commit and push operations.
+
