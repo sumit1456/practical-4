@@ -1,6 +1,2 @@
-\# Demo Repository
-
-
-
-This repository demonstrates basic Git and GitHub workflow including clone, pull, commit and push operations.
+<h1>Git Branching Workflow</h1>
 
